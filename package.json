@@ -1,0 +1,25 @@
+{
+  "name": "svm-implementation",
+  "version": "1.0.0",
+  "description": "An implementation of SVM",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/supermassiveasshole/SVM-Implementation.git"
+  },
+  "keywords": [
+    "SVM"
+  ],
+  "author": "Rui Xue",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/supermassiveasshole/SVM-Implementation/issues"
+  },
+  "homepage": "https://github.com/supermassiveasshole/SVM-Implementation#readme",
+  "dependencies": {
+    "ml-matrix": "^6.5.3"
+  }
+}
